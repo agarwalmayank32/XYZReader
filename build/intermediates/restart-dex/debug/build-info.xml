@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="23"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="2102622026097"
+    token="-1370164516864602080"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <artifact
+        location="/home/powerpack/Music/p5-XYZReader-master/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+        type="RESOURCES" />
+
+    <build
+        timestamp="1951469225236"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/home/powerpack/Music/p5-XYZReader-master/build/outputs/apk/p5-XYZReader-master-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="2102622026097"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/home/powerpack/Music/p5-XYZReader-master/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+            type="RESOURCES" />
+    </build>
+
+</instant-run>

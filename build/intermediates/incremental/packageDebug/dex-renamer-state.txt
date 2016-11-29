@@ -1,0 +1,7 @@
+#Tue Nov 29 09:59:48 IST 2016
+base.0=/home/powerpack/Music/p5-XYZReader-master/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c4cb2803912205d25f6f0e24ed60ef7f6ef1b3f2
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/powerpack/Music/p5-XYZReader-master/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3bbd16498a06803aaaacf1387f6dc39c282d26fe/classes.dex
+base.1=/home/powerpack/Music/p5-XYZReader-master/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3bbd16498a06803aaaacf1387f6dc39c282d26fe
+file.0=/home/powerpack/Music/p5-XYZReader-master/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c4cb2803912205d25f6f0e24ed60ef7f6ef1b3f2/classes.dex

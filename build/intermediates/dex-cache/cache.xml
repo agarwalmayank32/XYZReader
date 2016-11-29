@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/powerpack/Music/p5-XYZReader-master/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/home/powerpack/Music/p5-XYZReader-master/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.1.1_72bdd13a95391c470145be8e1b94e2c3081051ad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/powerpack/Music/p5-XYZReader-master/libs/volley.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="/home/powerpack/Music/p5-XYZReader-master/build/intermediates/transforms/dex/debug/folders/1000/2/volley_e93891f08f60281a5e26a545edcb2805446ce6b3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/powerpack/Music/p5-XYZReader-master/build/intermediates/exploded-aar/com.android.support/palette-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b3f2f82a3805cb689e32238c95cb291a433b4323">
+        <dex dex="/home/powerpack/Music/p5-XYZReader-master/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-24.1.1_d5c3d9d30ccf600658b3c4ea95b3466ae14198ea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/powerpack/Music/p5-XYZReader-master/build/intermediates/exploded-aar/com.android.support/design/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
+        <dex dex="/home/powerpack/Music/p5-XYZReader-master/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.1.1_41a777c30b521d256d8de53b564a2fe0cb701260/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/powerpack/Music/p5-XYZReader-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="/home/powerpack/Music/p5-XYZReader-master/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.1.1_5bb9806adb6dbdbb2eea42a9ad0e146725a9326a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/powerpack/Music/p5-XYZReader-master/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/home/powerpack/Music/p5-XYZReader-master/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.1_85e48f442417713cdf6d0b8ccbc3929457f4d16f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/powerpack/Music/p5-XYZReader-master/build/intermediates/exploded-aar/com.android.support/support-v13/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="327f68d58bb39fb8b585150596b313541f8fdb87">
+        <dex dex="/home/powerpack/Music/p5-XYZReader-master/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v13-24.1.1_a543d2cd677c2b30f9915e37f0aef5b8265a20a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/powerpack/Documents/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/24.1.1/support-annotations-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/home/powerpack/Music/p5-XYZReader-master/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.1.1_5b27b8480eb5788e3eca95a05f0b17721f212b7d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/powerpack/Music/p5-XYZReader-master/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4add8aa95c9f4e9a2ad64b7e2bf08e97e28955c1">
+        <dex dex="/home/powerpack/Music/p5-XYZReader-master/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-24.1.1_2ec473bf54726cd301bdf7c0e844d50ff3a57450/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/powerpack/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/home/powerpack/Music/p5-XYZReader-master/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_0a7565020893cb637ab51ff95bc88b5adfc6d6c5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/powerpack/Music/p5-XYZReader-master/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="/home/powerpack/Music/p5-XYZReader-master/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.1.1_04f6ce5f9d820211bd6881fb074af3a01fcf4136/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/powerpack/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.1.2/7052283359001bb108753cb0583a887d3bf94c82/okhttp-3.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="/home/powerpack/Music/p5-XYZReader-master/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.1.2_be03424267de70fa61cc0d0b797a84ef80bd6b31/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/powerpack/Music/p5-XYZReader-master/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a807b26a4e11a481f393f5b891e677f339db8289">
+        <dex dex="/home/powerpack/Music/p5-XYZReader-master/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c4cb2803912205d25f6f0e24ed60ef7f6ef1b3f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/powerpack/Music/p5-XYZReader-master/build/intermediates/exploded-aar/com.android.support/support-v13/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ca74722504f90166103d01edcdfdb93192eb1cba">
+        <dex dex="/home/powerpack/Music/p5-XYZReader-master/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.1_e1427e110e652287325a8f7ebb17ccadc519be4d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/powerpack/Music/p5-XYZReader-master/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="/home/powerpack/Music/p5-XYZReader-master/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.1.1_8b0fb8c32f28ae7951d5cb9f68006766afed76cf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/powerpack/Music/p5-XYZReader-master/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d39b3e8119343bd8f0094ea2db62016f0677f765">
+        <dex dex="/home/powerpack/Music/p5-XYZReader-master/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3bbd16498a06803aaaacf1387f6dc39c282d26fe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/powerpack/Music/p5-XYZReader-master/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="/home/powerpack/Music/p5-XYZReader-master/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.1.1_066a99ca3568520eb234e2669bcc94d343291ee1/classes.dex" />
+    </item>
+
+</items>

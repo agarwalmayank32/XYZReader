@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/powerpack/Music/p5-XYZReader-master/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_share.png",
+        "source": "/home/powerpack/Music/p5-XYZReader-master/src/main/res/drawable-xxhdpi/ic_share.png"
+    },
+    {
+        "merged": "/home/powerpack/Music/p5-XYZReader-master/build/intermediates/res/merged/debug/drawable-xxhdpi/logo.png",
+        "source": "/home/powerpack/Music/p5-XYZReader-master/src/main/res/drawable-xxhdpi/logo.png"
+    },
+    {
+        "merged": "/home/powerpack/Music/p5-XYZReader-master/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_arrow_back.png",
+        "source": "/home/powerpack/Music/p5-XYZReader-master/src/main/res/drawable-xxhdpi/ic_arrow_back.png"
+    }
+]
